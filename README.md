@@ -1,6 +1,6 @@
  <h1> 👋 Hi, I’m @vikram221092 </H1>
  
-- 👨‍💻 I’m currently working on intern at DCT Academy
+- 👨‍💻 I’m currently working as on intern at DCT Academy
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning NODE JS
 - 📫 How to reach me - https://www.linkedin.com/in/vikramvicky30
